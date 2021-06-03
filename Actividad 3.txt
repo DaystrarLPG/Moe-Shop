@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>Actividad 3</title>
+</head>
+<body bgcolor="aqua">
+   
+<H1 align="center"><font behavior="alternative" size=10" face="Elephant"><H1 align="center"><p style="color:yellow;">Geometry Dash | Moe Shop</p></H1></font>
+
+<H1 align="center"><video src="Geometry Dash _ Moe Shop (All coins).mp4" autostart="true" width="600"/></H1 align="center">
+
+</html>
